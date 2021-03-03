@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "my learn js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "rimraf": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "application"
+  ],
+  "author": "Dubs",
+  "license": "ISC"
+}
